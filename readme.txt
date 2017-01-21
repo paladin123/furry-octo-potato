@@ -5,3 +5,4 @@ hello
 ok
 confilct
 Creating a new branch is quick AND simple.
+\nhello
